@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qBZ0XDZ7CorYThwMV++2HBoJObuAdibGXE2CNWPL07c=",
+  "Source": "minimal-app",
+  "BasePath": "_content/minimal-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
