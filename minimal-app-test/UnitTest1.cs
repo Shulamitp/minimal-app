@@ -31,6 +31,7 @@ namespace minimal_app_test
         [Fact]
         public void GetMessage_WithEmptyConnectionString_ReturnsMessageWithEmpty()
         {
+            //test my tests ----------
             // Arrange
             string dbConnection = "";
 
