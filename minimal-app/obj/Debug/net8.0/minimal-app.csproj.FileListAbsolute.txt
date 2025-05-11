@@ -30,3 +30,4 @@ C:\Users\ShulamitPetranker\Projects\minimal-app\minimal-app\obj\Debug\net8.0\ref
 C:\Users\ShulamitPetranker\Projects\minimal-app\minimal-app\obj\Debug\net8.0\minimal-app.pdb
 C:\Users\ShulamitPetranker\Projects\minimal-app\minimal-app\obj\Debug\net8.0\minimal-app.genruntimeconfig.cache
 C:\Users\ShulamitPetranker\Projects\minimal-app\minimal-app\obj\Debug\net8.0\ref\minimal-app.dll
+C:\Users\ShulamitPetranker\Projects\minimal-app\minimal-app\obj\Debug\net8.0\minimal-app.sourcelink.json

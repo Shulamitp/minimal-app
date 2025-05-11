@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minimal-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd48d5daeace9e2a1d0fa2ce3e483673e6a425d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("minimal-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minimal-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
